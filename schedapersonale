@@ -1,0 +1,30 @@
+<html>
+
+         <title>Scheda personale</title>
+<body>
+<h1>Scheda Personale</h1>
+<h1>Informazioni Personali</h1>
+<p>Nicoilò Giannazzo</p>
+<p>15 anni </p>
+<p> 2CIT al maxwell </p>
+<p> 21/08/09 </p>
+<p> Nichelino </p>
+<h2>chi sono</h2>
+<ul>	 
+<li>Io sono Nicolò Giannazzo sono nato e cresciuto a Nichelino nella vita se faccio una cosa la faccio bene perchè per farla male non perdo tempo.</li>
+</ul>
+	  
+<h3>i miei interessi</h3>
+<ul>
+<li> Giocare alla playstation con gli amici</li>
+<li>Andare in palestra per migliorare il mio fisico</li>
+<li>Il calcio che fin da quando sono piccolo</li>
+</ul>
+<h4>Le mie competenze</h4>
+<ul>
+<li>Suonare la batteria</li>
+<li>Suonare la chitarra</li>
+<li>Suonare il pianoforte</li>
+</ul>
+</body>
+</html>
